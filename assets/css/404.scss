@@ -21,10 +21,11 @@ body {
   
   svg {
     position: relative;
-    overflow: hidden;
+    overflow: visible;
     z-index: 2;
     transform: translate3d(0,0,0);
-    margin: 3em;
+    margin-bottom: 30px;
+    max-width: 80%;
   }
   .error-message {
     margin: 1em 0;
