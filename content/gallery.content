@@ -1,0 +1,25 @@
+<!-- Wrapper -->
+<div id="wrapper">
+	<!-- Menu -->
+	<section id="two" class="wrapper style1">
+		<div class="inner" style="text-align:center">
+			<h2>Gallery</h2>
+			<div class="rounded" style="margin: 0 auto; width: 600px; max-width:100%; background:#363331; padding-top:40px; padding-bottom:40px">
+				<img class="rounded" title="pizza" alt="pizza" width="500px" src="@pathtofile(output/images/pizza.jpg)"> <br><br>
+				<img class="rounded" title="fish" alt="fish" width="500px" src="@pathtofile(output/images/fish.jpg)"> <br><br>
+				<img class="rounded" title="burgers" alt="burgers" width="500px" src="@pathtofile(output/images/burger.jpg)"> <br><br>
+				<img class="rounded" title="margarita" alt="margarita" width="500px" src="@pathtofile(output/images/margarita.jpg)"> <br><br>
+				<img class="rounded" title="parmie" alt="parmie" width="500px" src="@pathtofile(output/images/parmy.jpg)"> <br><br>
+				<img class="rounded" title="parmie" alt="parmie" width="500px" src="@pathtofile(output/images/parmie.jpg)"> <br><br>
+				<img class="rounded" title="bartender" alt="bartender" width="500px" src="@pathtofile(output/images/bartender.jpg)"> <br><br>
+				<img class="rounded" title="fireplace" alt="fireplace" width="500px" src="@pathtofile(output/images/fireplace.jpg)"> <br><br>
+				<img class="rounded" title="entertainment" alt="entertainment" width="500px" src="@pathtofile(output/images/entertainment.jpg)"> <br><br>
+				<img class="rounded" title="entertainment" alt="entertainment" width="500px" src="@pathtofile(output/images/entertainment2.jpg)"> <br><br>
+				<img class="rounded" title="entertainment" alt="entertainment" width="500px" src="@pathtofile(output/images/entertainment3.jpg)"> <br><br>
+				<img class="rounded" title="entertainment" alt="entertainment" width="500px" src="@pathtofile(output/images/entertainment4.jpg)"> <br><br>
+				<img class="rounded" title="crowd" alt="crowd" width="500px" src="@pathtofile(output/images/crowd1.jpg)"> <br><br>
+				<img class="rounded" title="crowd" alt="crowd" width="500px" src="@pathtofile(output/images/crowd2.jpg)">
+			</div><br><br>
+		</div>
+	</section>
+</div>

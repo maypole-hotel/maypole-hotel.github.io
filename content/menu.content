@@ -1,0 +1,13 @@
+<!-- Wrapper -->
+<div id="wrapper">
+	<!-- Menu -->
+	<section id="two" class="wrapper style1">
+		<div class="inner">
+			<div style="text-align:center">
+				<button type="button" class="button large primary" onclick="printJS('@pathtofile(output/images/menu.jpg)', 'image')">Print Menu</button><br><br>
+				<a href="@pathtofile(output/images/menu.jpg)"><img class="inverted rounded" src="@pathtofile(output/images/menu.jpg)"></a><br><br>
+				<button type="button" class="button large primary" onclick="printJS('@pathtofile(output/images/menu.jpg)', 'image')">Print Menu</button><br><br>
+			</div>
+		</div>
+	</section>
+</div>

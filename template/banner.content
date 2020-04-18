@@ -1,0 +1,8 @@
+<!-- Banner -->
+<div id="banner" class="wrapper">
+	<div class="inner">
+		<div class="content">
+			<img src="@pathtofile(output/images/maypole.svg)" class="maypole inverted rounded" alt="" width="300px"><br><br>
+		</div>
+	</div>
+</div>

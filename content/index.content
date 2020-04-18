@@ -1,0 +1,116 @@
+<div id="banner" class="inner">
+	<div class="content" style="text-align:center">
+		<h1>Open Hours</h1>
+		<p>
+			<b>Note:</b> Due to the ongoing coronavirus pandemic we are only open for take away
+		</p>
+
+		<p>
+			<b>Mon-Tues:</b> 16:00 - 20:30<br>
+			<b>Wed-Thur:</b> 16:00 - 22:00<br>
+			<b>Friday:</b> 12:00 - 23:30<br>
+			<b>Saturday:</b> 16:00 - 22:30<br>
+			<b>Sunday:</b> Closed
+		</p>
+	</div>
+</div>
+
+<!-- Wrapper -->
+<div id="wrapper">
+	<!-- One -->
+	<section id="one" class="wrapper style1">
+		<div class="inner">
+			<div class="spotlights">
+				<div class="spotlight">
+					<div class="image fit">
+						<img src="@pathtofile(output/images/hotel.png)" alt="" style="max-width:100%">
+					</div>
+					<div class="content" style="text-align: center;">
+						<h2 style="margin-top:30px">Location</h2>
+						<section class="contact-info" style="font-size:16pt; margin-top: 50px">
+							<div class="item">
+								<a href="https://maps.google.com/maps?ll=-42.855556,147.303611&z=16&t=m&hl=en&gl=AU&mapclient=embed&cid=777903131081874745"><span class="icon solid alt fa-home"></span></a>
+								<p style="margin-top:-20px">
+									<a href="https://maps.google.com/maps?ll=-42.855556,147.303611&z=16&t=m&hl=en&gl=AU&mapclient=embed&cid=777903131081874745">
+										191 New Town Road<br />
+										Hobart, Tasmania 7008
+									</a>
+								</p>
+							</div>
+							<div class="item">
+								<a href="tel:62789662"><span class="icon solid alt fa-phone"></span></a>
+								<p style="margin-top:-20px">
+									<a href="tel:62789662">(03) 62 789 662</a>
+								</p>
+							</div>
+						</section>
+					</div>
+				</div>
+				<div class="spotlight">
+					<div class="image fit alt">
+						<img src="@pathtofile(output/images/bartender.jpg)" alt="" style="max-width:100%">
+					</div>
+					<div class="content">
+						<h2>Licensed Venue</h2>
+						<p>Ut convallis, sem sit amet interdum consectetuer, odio augue aliquam leo, nec tortor nibh sed augue. Integer eu magna sit amet metus ferment. Pellentesque a diam sit amet mi ullamcorper vehicula. Lorem ipsum dolor sit amet nullam.</p>
+						<ul class="actions">
+							<li><a href="#" class="button primary">Learn More</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="spotlight">
+					<div class="image fit">
+						<img src="@pathtofile(output/images/pizza.jpg)" alt="" style="max-width:100%">
+					</div>
+					<div class="content">
+						<h2>Food</h2>
+						<p>Ut convallis, sem sit amet interdum consectetuer, odio augue aliquam leo, nec tortor nibh sed augue. Integer eu magna sit amet metus ferment. Pellentesque a diam sit amet mi ullamcorper vehicula. Lorem ipsum dolor sit amet nullam.</p>
+						<ul class="actions">
+							<li><a href="@pathtopage(menu)" class="button primary">Menu</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="spotlight">
+					<div class="image fit alt">
+						<img src="@pathtofile(output/images/entertainment.jpg)" alt="" style="max-width:100%">
+					</div>
+					<div class="content">
+						<h2>Entertainment</h2>
+						<p>Ut convallis, sem sit amet interdum consectetuer, odio augue aliquam leo, nec tortor nibh sed augue. Integer eu magna sit amet metus ferment. Pellentesque a diam sit amet mi ullamcorper vehicula. Lorem ipsum dolor sit amet nullam.</p>
+						<ul class="actions">
+							<li><a href="#" class="button primary">Learn More</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="spotlight">
+					<div class="image fit">
+						<img src="@pathtofile(output/images/function-room.jpg)" alt="" style="max-width:100%">
+					</div>
+					<div class="content">
+						<h2>Functions</h2>
+						<p>Ut convallis, sem sit amet interdum consectetuer, odio augue aliquam leo, nec tortor nibh sed augue. Integer eu magna sit amet metus ferment. Pellentesque a diam sit amet mi ullamcorper vehicula. Lorem ipsum dolor sit amet nullam.</p>
+						<ul class="actions">
+							<li><a href="#" class="button primary">Learn More</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- Three -->
+	<section id="three" class="wrapper style1">
+		<div class="inner">
+			<div class="box cta">
+				<div class="content">
+					<h2>Odio dapibus adipiscing</h2>
+					<p>Ut convallis, sem sit amet interdum consectetuer, odio augue aliquam leo, nec dapibus tortor nibh sed augue. Integer eu magna sit amet metus ferment. Pellentesque a diam sit amet amet dolor ullamcorper vehicula. Lorem ipsum dolor sit amet dolor sit amet consequat.</p>
+				</div>
+				<ul class="actions stacked">
+					<li><a href="#" class="button primary large fit">Get Started</a></li>
+					<li><a href="#" class="button large fit">Learn More</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</div>

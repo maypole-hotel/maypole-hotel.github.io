@@ -1,0 +1,56 @@
+<!-- Footer -->
+<div id="footer" class="wrapper">
+	<div class="inner">
+		<noselect>
+			<header style="margin-bottom: 60px">
+				<h2>Contact</h2>
+			</header>
+			<section class="contact-info">
+				<div class="item">
+					<a href="https://maps.google.com/maps?ll=-42.855556,147.303611&z=16&t=m&hl=en&gl=AU&mapclient=embed&cid=777903131081874745"><span class="icon solid alt fa-home"></span></a>
+					<p>
+						<a href="https://maps.google.com/maps?ll=-42.855556,147.303611&z=16&t=m&hl=en&gl=AU&mapclient=embed&cid=777903131081874745">
+							191 New Town Road<br />
+							Hobart, Tasmania 7008
+						</a>
+					</p>
+				</div>
+				<div class="item">
+					<a href="tel:62789662"><span class="icon solid alt fa-phone"></span></a>
+					<p>
+						<a href="tel:62789662">(03) 62 789 662</a>
+					</p>
+				</div>
+				<div class="item">
+					<a href="mailto:maypolehotel@gmail.com"><span class="icon solid alt fa-envelope"></span></a>
+					<a href="mailto:maypolehotel@gmail.com">maypolehotel@gmail.com</a>
+				</div>
+				<div class="item">
+					<a href="https://www.facebook.com/Maypole-Hotel-346067558884877"><span class="icon brands alt fa-facebook-f"></span></a>
+					<a href="https://www.facebook.com/Maypole-Hotel-346067558884877">facebook</a>
+				</div>
+				<#--
+				<div class="item">
+					<span class="icon brands alt fa-twitter"></span>
+					<a href="#">twitter.com/untitled</a>
+				</div>
+				<div class="item">
+					<span class="icon brands alt fa-linkedin-in"></span>
+					<a href="#">linkedin.com/untitled</a>
+				</div>
+				--#>
+			</section>
+
+			<header style="margin-top: -50px; margin-bottom: 30px">
+				<h2>Map</h2>
+			</header>
+			<p>
+				@input(template/map.content)
+			</p>
+
+			<p class="copyright">
+				&copy;$[load-YYYY] Maypole Hotel
+			</p>
+		</noselect>
+	</div>
+</div>
