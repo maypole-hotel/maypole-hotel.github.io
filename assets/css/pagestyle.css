@@ -1,0 +1,47 @@
+img, iframe
+{
+	max-width: 85%;
+	-webkit-user-select: none; /* Chrome/Safari */
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* IE10+ */
+}
+
+iframe
+{
+	border:1px solid grey;
+}
+
+br, button, nav, noselect
+{
+	-webkit-user-select: none; /* Chrome/Safari */
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* IE10+ */
+}
+
+.inverted
+{
+	filter: invert(90%);
+}
+
+.m
+{
+	vertical-align: middle;
+	margin-bottom: 5px;
+}
+
+.maypole
+{
+	text-align: center;
+	background-color: white;
+	border:3px solid black;
+}
+
+.rounded
+{
+	border-radius: 10px;
+}
+
+#map 
+{
+	height: 300px;
+}
