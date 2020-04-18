@@ -29,18 +29,18 @@
 						<h2 style="margin-top:30px">Location</h2>
 						<section class="contact-info" style="font-size:16pt; margin-top: 50px">
 							<div class="item">
+								<a href="tel:62789662"><span class="icon solid alt fa-phone"></span></a>
+								<p style="margin-top:-20px">
+									<a href="tel:62789662">(03) 62 789 662</a>
+								</p>
+							</div>
+							<div class="item">
 								<a href="https://maps.google.com/maps?ll=-42.855556,147.303611&z=16&t=m&hl=en&gl=AU&mapclient=embed&cid=777903131081874745"><span class="icon solid alt fa-home"></span></a>
 								<p style="margin-top:-20px">
 									<a href="https://maps.google.com/maps?ll=-42.855556,147.303611&z=16&t=m&hl=en&gl=AU&mapclient=embed&cid=777903131081874745">
 										191 New Town Road<br />
 										Hobart, Tasmania 7008
 									</a>
-								</p>
-							</div>
-							<div class="item">
-								<a href="tel:62789662"><span class="icon solid alt fa-phone"></span></a>
-								<p style="margin-top:-20px">
-									<a href="tel:62789662">(03) 62 789 662</a>
 								</p>
 							</div>
 						</section>
