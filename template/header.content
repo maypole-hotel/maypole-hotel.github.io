@@ -3,7 +3,7 @@
 	<a class="logo" href="@pathtopage(index)"><img src="@pathtofile(output/images/m.svg)" class="m inverted" height="45px";></a>
 	<nav id="nav">
 		<ul>
-			<li><a href="index.html">Home</a></li>
+			<li><a href="@pathtopage(index)">Home</a></li>
 			<li><a href="@pathtopage(menu)">Menu</a></li>
 			<li><a href="@pathtopage(gallery)">Gallery</a></li>
 			<#--

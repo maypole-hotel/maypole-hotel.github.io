@@ -3,6 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 <meta name="description" content="" />
 <meta name="keywords" content="" />
-<link rel="stylesheet" href="assets/css/main.css" />
-<link rel="stylesheet" href="assets/css/pagestyle.css" />
-<link rel="stylesheet" href="assets/css/print.css" />
+<link rel="stylesheet" href="@pathtofile(output/assets/css/main.css)" />
+<link rel="stylesheet" href="@pathtofile(output/assets/css/pagestyle.css)" />
+<link rel="stylesheet" href="@pathtofile(output/assets/css/print.css)" />
+<link rel="icon" type="image/svg" href="@pathtofile(output/images/m.svg)">

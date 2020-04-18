@@ -1,0 +1,11 @@
+<title>maypole hotel</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<link rel="stylesheet" href="https://maypole-hotel.github.io/assets/css/404.css" />
+<link rel="stylesheet" href="@pathtofile(output/assets/css/404.css)" />
+<link rel="stylesheet" href="https://maypole-hotel.github.io/assets/css/main.css" />
+<link rel="stylesheet" href="https://maypole-hotel.github.io/assets/css/pagestyle.css" />
+<link rel="stylesheet" href="https://maypole-hotel.github.io/assets/css/print.css" />
+<link rel="icon" type="image/svg" href="https://maypole-hotel.github.io/images/m.svg">
