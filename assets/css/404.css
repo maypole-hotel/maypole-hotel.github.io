@@ -18,7 +18,7 @@ body {
 }
 .error-banner svg {
   position: relative;
-  overflow: visible;
+  overflow: hidden;
   z-index: 2;
   transform: translate3d(0, 0, 0);
   margin: 3em;
