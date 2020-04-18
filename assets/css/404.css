@@ -36,7 +36,6 @@ body {
 }
 .error-banner p {
   font-size: 20px;
-  margin: 8px;
 }
 .error-banner p span {
   animation: 2s ease-out fade-in-slowly;

@@ -41,7 +41,6 @@ body {
   }
   p {
     font-size: 20px;
-    margin: 8px;
     span { animation: $error-animation-step*4 ease-out fade-in-slowly; }
   }
   svg:hover + .error-message{
